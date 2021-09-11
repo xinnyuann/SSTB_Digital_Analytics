@@ -1,6 +1,6 @@
 # SSTB_Digital_Analytics
 ### [Start Small Think Big](https://www.startsmallthinkbig.org) (a.k.a. SSTB)
-We work with entrepreneurs who are of color, women, or members of under-sourced groups, and/or lower-income, with business revenues under $1M. We connect entrepreneurs with volunteer lawyers, financial professionals and marketing experts from reputable firms and organizations. 
+is a nonprofit that helps small business owners from marginalized communities create thriving businesses. Regardless of their financial status, birthplace, race, gender identity, sexual orientation, disability, or network, all people deserve the power to make decisions about their own lives. 
 
 ### "Get Start with Digital Analytics for Your Small Business" 
 is a workshop that offers a brief introduction to Digital Analytics, explains several key concepts to further answer questions from our fellow SMB, with a gentle introduction to Google Analytics 4:

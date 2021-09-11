@@ -12,7 +12,7 @@ is a workshop that offers a brief introduction to Digital Analytics, explains se
 
 ### Documents
 > [Slides (09/12 Workshop)](https://docs.google.com/presentation/d/1FjKwqVVgfOV9XAK2wEX6Gf_vQpW9HQJF/edit?usp=sharing&ouid=117169706809620333077&rtpof=true&sd=true)
-> <br>[GA4 Demo Website](https://github.com/xinnyuann/web-demo) - https://xinnyuann.github.io/web-demo/</br>
+> <br>[Install GA4 Demo Website](https://github.com/xinnyuann/web-demo) - https://xinnyuann.github.io/web-demo/</br>
 
 ### Important Links
 1. [Meet the Next Generation of Google Analytics - GA 4](https://support.google.com/analytics/answer/10089681?hl=en&ref_topic=9143232)

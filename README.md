@@ -19,5 +19,6 @@ is a workshop that offers a brief introduction to Digital Analytics, explains se
 2. Access [Google Analytics Demo Account](https://support.google.com/analytics/answer/6367342#access&zippy=%2Cin-this-article)
 3. Campaign Tracking - [Google Analytics 4 URL Builder](https://ga-dev-tools.web.app/ga4/campaign-url-builder/)
 4. [Google Analytics Academy](https://analytics.google.com/analytics/academy/)
+5. [Google Tag Manager Overview](https://support.google.com/tagmanager/answer/6102821?hl=en) - tag managing system, "your data broker", it takes all your website data, and send it to different services such as Google Analytics, Facebook Analytics, and beyond.
 
 

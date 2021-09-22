@@ -16,9 +16,10 @@ is a workshop that offers a brief introduction to Digital Analytics, explains se
 
 ### Important Links
 1. [Meet the Next Generation of Google Analytics - GA 4](https://support.google.com/analytics/answer/10089681?hl=en&ref_topic=9143232)
-2. Access [Google Analytics Demo Account](https://support.google.com/analytics/answer/6367342#access&zippy=%2Cin-this-article)
-3. Campaign Tracking - [Google Analytics 4 URL Builder](https://ga-dev-tools.web.app/ga4/campaign-url-builder/)
-4. [Google Analytics Academy](https://analytics.google.com/analytics/academy/)
-5. [Google Tag Manager Overview](https://support.google.com/tagmanager/answer/6102821?hl=en) - tag managing system, "your data broker", it takes all your website data, and send it to different services such as Google Analytics, Facebook Analytics, and beyond.
-
+2. [What's new in Google Analytics (different releases)?](https://support.google.com/analytics/answer/9164320?hl=en#zippy=%2Creleases)
+3. Access [Google Analytics Demo Account](https://support.google.com/analytics/answer/6367342#access&zippy=%2Cin-this-article)
+4. Campaign Tracking - [Google Analytics 4 URL Builder](https://ga-dev-tools.web.app/ga4/campaign-url-builder/)
+5. [Google Analytics Academy](https://analytics.google.com/analytics/academy/)
+6. [Google Tag Manager Overview](https://support.google.com/tagmanager/answer/6102821?hl=en) - tag managing system, "your data broker", it takes all your website data, and send it to different services such as Google Analytics, Facebook Analytics, and beyond.
+7. [Other Free Digital Analytics Resources - Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
 
